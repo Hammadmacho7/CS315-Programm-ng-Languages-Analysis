@@ -1,3 +1,3 @@
-# CS315-Programm-ng-Languages-Analysis
+# CS315-Programming-Languages-Analysis
 
 have analysed 7 different languages. 
